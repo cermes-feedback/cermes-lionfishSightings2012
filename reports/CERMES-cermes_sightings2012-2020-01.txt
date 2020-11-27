@@ -1,0 +1,34 @@
+Report for Institution Code CERMES, Resource cermes_sightings2012
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 4
+Number of records retrieved in searches: 92
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: France ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-11 ; Times: 1
+	Date: 2020-01-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pterois volitans mappable:1" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 0 (out of 1584 download events in this period)
+Total number of records downloaded: 0
+Number of different countries: 0
+
+Origin of the queries that retrieved data from the resource: 
+
+Dates of the queries that retrieved data from the resource: 
+
+List of queries that retrieved data from the resource: 
+
+
+End of report.
